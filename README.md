@@ -31,9 +31,6 @@ This project builds an end-to-end retail demand forecasting pipeline using histo
 
 ## Tableau Dashboard
 
-Interactive Dashboard Link:  
-(Add your Tableau Public link here)
-
 
 ## Author
 Aditya Satapathy  
